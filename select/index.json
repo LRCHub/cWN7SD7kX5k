@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "별별별 (See that?)",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T13:03:18.821772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_별별별_(☆★☆)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆)",
+      "artist": "소녀시대",
+      "has_synced": true,
+      "path": "select/02_별별별_(☆★☆)_소녀시대.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "See That? (별별별)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/03_See_That__(별별별)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆)",
+      "artist": "Girls’ Generation",
+      "has_synced": false,
+      "path": "select/04_별별별_(☆★☆)_Girls’_Generation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) [Acoustic R&B Version]",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_별별별_(☆★☆)_[Acoustic_R&B_Version]_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/06_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "소녀시대 (GIRLS' GENERATION)",
+      "has_synced": false,
+      "path": "select/07_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_소녀시대_(GIRLS'_GENERATION).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "별별별(☆★☆)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/08_별별별(☆★☆)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "별별별(☆★☆)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_별별별(☆★☆)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/10_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "소녀시대",
+      "has_synced": false,
+      "path": "select/11_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_소녀시대.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Star Star Star (별별별) (☆★☆)",
+      "artist": "Girls' Generation (소녀시대)",
+      "has_synced": true,
+      "path": "select/12_Star_Star_Star_(별별별)_(☆★☆)_Girls'_Generation_(소녀시대).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "별별별 (Byeol Byeol Byeol) [Star Star Star] (☆★☆) (Acoustic R&B Version)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/13_별별별_(Byeol_Byeol_Byeol)_[Star_Star_Star]_(☆★☆)_(Acoustic_R&B_Version)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) Acoustic R&B ver.",
+      "artist": "Girls’ Generation",
+      "has_synced": false,
+      "path": "select/14_별별별_(☆★☆)_Acoustic_R&B_ver._Girls’_Generation.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "별별별 (See that?)",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_별별별_(See_that_)_NMIXX.txt"
+    }
+  ]
+}
